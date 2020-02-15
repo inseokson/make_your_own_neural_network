@@ -1,2 +1,6 @@
-# make_your_own_neural_network
-Summary and lab code of "Make Your Own Neural Network"
+# 신경망 첫걸음
+신경망 첫걸음(타리크 라시드 저, 송교석 역, 한빛미디어)의 이론과 실습 내용을 정리한 저장소입니다. (MNIST 데이터는 업로드하지 않았습니다.) 
+
+이론은 단일 퍼셉트론부터 Forward Propagation, Backpropagation 등 신경망 학습에 필요한 내용을 쉽고 친절하게 소개하고 있습니다. 실습 부분은 책에서 배운 내용을 토대로 Shallow Neural Network (Hidden Layer가 한 개인 Neural Network)를 직접 코딩해보고, MNIST 데이터 셋을 이용하여 학습 및 분류하는 과정까지 다루고 있습니다. 개인적으로 단순한 구조임에도 data/my_handwriting에 저장되어 있는 제 글씨를 (완벽하지는 않더라도) 분류할 수 있다는 점이 흥미로웠습니다.  
+
+개인적으로 Neural Network에 관심이 있는 초심자가 읽는다면 굉장히 많은 도움을 받으실 수 있을 것이라고 생각합니다. 저 또한 그랬고요 :) 
